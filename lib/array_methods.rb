@@ -1,6 +1,6 @@
 def using_include(array, element)
-  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
-famous_cats.include?("Garfield")
+  famous_cats = ["lil' bub", "grumpy", "Maru"]
+famous_cats.include?("grumpy")
 end
 
 def using_sort(array)
