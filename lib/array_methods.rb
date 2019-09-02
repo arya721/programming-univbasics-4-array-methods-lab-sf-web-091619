@@ -1,6 +1,7 @@
 def using_include(array, element1)
-  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
-  famous_cats.include?("grumpy cat")
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  element1 = "wow"
+  element2 = "Tardis"
 
 end
 
